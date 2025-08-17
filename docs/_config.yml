@@ -1,0 +1,28 @@
+title: "MedTranscribeAi Docs"
+description: "Transcribe care. Optimize billing. Get paid faster."
+# Pick one:
+theme: jekyll-theme-cayman # or: jekyll-theme-primer, jekyll-theme-minimal, etc.
+
+# Optional but nice:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+# If this is a project site (not org/user site), set your baseurl:
+# baseurl: "/<repo-name>"   # e.g., "/medtranscribeai"
+title: "MedTranscribeAi Docs"
+description: "Transcribe care. Optimize billing. Get paid faster."
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# If this is a project site (not org/user site), set your baseurl:
+# baseurl: "/<repo-name>"
+
+# Just the Docs options (optional, but handy)
+logo: "/assets/iOSiconMedTranscribe.png"
+aux_links:
+  "MedTranscribeAi on GitHub":
+    - "https://github.com/<your-org-or-user>/<your-repo>"
+nav_external_links_new_tab: true
