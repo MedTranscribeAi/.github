@@ -1,113 +1,172 @@
-# ![ ecom industries Logo](https://nativestack-assets.s3.us-east-1.amazonaws.com/ecom-industries/logos/ecom1200x630.png)
+# MedTranscribeAi
 
-**Your Trusted Partner for AI, Machine Learning, and Software Engineering Excellence**
+_Transcribe care. Optimize billing. Get paid faster._ 🩺✨
 
-ecom industries specializes in delivering advanced **🌐 software solutions** with a focus on **🤖 machine learning (ML)**, **💡 artificial intelligence (AI)**, and **⚙️ DevOps automation**. We empower businesses by building **secure, cost-effective, and real-time AI/ML pipelines**, tailored to industries like **🏭 manufacturing**, **🏥 healthcare**, and **📊 programmatic advertising**.
+![MedTranscribeAi icon](docs/assets/iOSiconMedTranscribe.png)
 
-🔎 [Discover more by reading our Company Overview!](https://github.com/ecomindustries/.github/blob/master/profile/COMPANY_OVERVIEW.md)
-
-🗽[Read our Federal Capability Statement](https://github.com/ecomindustries/.github/blob/master/profile/FED_CAPABILITY.md)
+> **MedTranscribeAi** is an AI assistant for clinicians and providers that turns spoken encounters into structured **SOAP notes** with **ICD‑10** suggestions — and (as we roll out) checks payer rules in real time to **reduce denials**, prevent audits, and improve cash flow.
 
 ---
 
-### **🎯 Core Competencies**
+## TL;DR — Why this matters
 
-#### **🤖 Machine Learning & AI Development**
+Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasing audits. We’re building one flow from **note → code → claim** that’s:
 
--   **📈 Predictive Analytics**: Real-time recommendation engines and AI-powered insights.
--   **🚀 Automation**: Low-latency ML pipelines leveraging **AWS SageMaker**, **Lambda**, and **DynamoDB Streams**.
--   **🧮 Data Optimization**: Transformation of data into efficient formats (Parquet/ORC) for reduced costs.
-
-#### **☁️ DevOps & Cloud Solutions**
-
--   **🛠️ Serverless Architecture**: Scalable solutions using **AWS CloudFormation**, **Athena**, and **S3**.
--   **🔄 CI/CD Automation**: Streamlined workflows with **AWS CodeBuild**, **CodePipeline**, and Docker.
--   **🔌 IoT Integration**: AI-powered IoT solutions for industrial applications.
-
-#### **🏥 Healthcare AI Solutions**
-
--   **💼 Compliance-Ready**: HIPAA-compliant AI/ML systems for medical transcription and billing.
--   **⚡ Real-Time Data Processing**: Automated ICD-10 coding and EMR integration.
-
-#### **📊 Programmatic Advertising Platforms**
-
--   **🎯 Precision Targeting**: AI-enhanced user segmentation and ad optimization.
--   **📦 White-Label Solutions**: Scalable platforms for programmatic advertising and RTB systems.
-
-#### **🔧 Embedded Systems & IoT**
-
--   **⚙️ CNC Optimization**: Real-time AI recommendations for manufacturing workflows.
--   **📡 IoT Integration**: Seamless streaming solutions for industrial systems.
+-   **Fast**: Dictate once; get a ready-to-review SOAP note in 5 minutes. ⏱️
+-   **Accurate**: ICD‑10 suggestions aligned with the note’s content. 🎯
+-   **Up‑to‑date**: Models trained on updated **CMS NCD/LCD** + commercial payer rules to prevent denials **before** claims go out. ✅
+-   **Future‑proof**: EHR integrations, claims optimization, and compliance insights — all in one place. 🔄
 
 ---
 
-### **✨ Differentiators**
+## Quick links
 
--   **🎯 Precision-Focused Innovation**: Enterprise-grade solutions ensuring reliability and performance.
--   **🔄 End-to-End Expertise**: From data engineering to deployment and monitoring.
--   **🔐 Regulatory Compliance**: HIPAA/ITAR adherence with best-in-class encryption and auditing.
--   **💸 Cost Optimization**: Reduced costs with advanced formats like Parquet and ORC.
--   **🧠 CTO-as-a-Service**: Strategic tech leadership for long-term, sustainable projects.
+-   📘 **User Documentation (start here)**
 
----
+    -   Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phase-1-transcription.md`](docs/phase-1-transcription.md)
+    -   Phase 2 – EHR Integration & Scheduling: [`docs/phase-2-ehr-integration.md`](docs/phase-2-ehr-integration.md)
+    -   Phase 3 – Real‑time Claims Optimization: [`docs/phase-3-claims-optimization.md`](docs/phase-3-claims-optimization.md)
+    -   Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phase-4-fraud-waste-abuse.md`](docs/phase-4-fraud-waste-abuse.md)
 
-### **🌍 Industries Served**
+-   🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](docs/PRD.md)
 
--   **🏭 Manufacturing**: CNC machine optimization and IoT solutions.
--   **🏥 Healthcare**: AI-driven medical billing and transcription.
--   **📊 Advertising**: Programmatic ad platforms and audience segmentation.
--   **🛍️ Retail & E-commerce**: AI-enhanced recommendation engines.
+-   💼 **Monetization**: [`docs/monetization.md`](docs/monetization.md)
 
----
+-   ⚖️ **Legal & Regulatory**: [`docs/legal-compliance.md`](docs/legal-compliance.md)
 
-### **⚙️ Key Technologies**
-
--   **☁️ Cloud**: AWS (Lambda, SageMaker, DynamoDB, Athena, S3, CloudFormation).
--   **🧮 AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy.
--   **🔄 DevOps Tools**: Docker, Kubernetes, AWS CodePipeline, CodeBuild.
--   **🌐 Front-End**: React.js for user-friendly interfaces.
--   **💾 Data Formats**: Parquet, ORC for high-performance analytics.
+-   🆚 **Comparative Analysis**: [`docs/comparative-analysis.md`](docs/comparative-analysis.md)
 
 ---
 
-### **🏆 Past Performance**
+## What problems we solve (today → tomorrow)
 
--   **⚙️ CNC Optimization**: Delivered real-time recommendation engines for precision manufacturing.
--   **🏥 Healthcare AI**: Deployed HIPAA-compliant transcription tools integrated with ICD-10 coding.
--   **📊 Advertising**: Built white-label programmatic ad platforms with AI-powered segmentation.
--   **🚀 Efficiency Gains**: Reduced time-to-market by 50% with automated ML pipelines.
+### 1) Documentation drag ✍️
 
----
+**Problem:** Providers spend nights and weekends finishing notes.
+**Solution:** **Phase 1** converts your speech into a structured **SOAP note** (Subjective, Objective, Assessment, Plan) — with **ICD‑10** suggestions — in minutes.
 
-### **📇 Business Information**
+**Power feature: Transcription Preferences** 🎛️
+Every clinician writes differently. Our **Transcription Preferences** let you “teach” the model how to write _your_ notes:
 
--   **📌 Company Name**: ecom industries
--   **🌐 Website**: [https://ecomindustries.io](https://ecomindustries.io)
--   **✉️ Contact**: [engineering@ecomindustries.io](mailto:engineering@ecomindustries.io)
--   **🏢 Type**: Private Software Engineering Firm
--   **✅ Certifications**: AWS Professionals, ITAR, SOC2, & HIPAA-Compliant Solutions
+-   Define prompts for **Chief Complaint, HPI, Medications, Allergies, PMH, PSH, Family/Social History, ROS, Objective, Assessment, Plan** — and any sub‑sections you use.
+-   Choose **narrative vs. bulleted** styles, required elements, phrasing, and headers.
+-   Save per‑provider or per‑group presets.
 
----
+_Example prompt ideas (you’ll set these in the app UI):_
 
-### **📅 Schedule a Meeting**
-
-Want to discuss your project or learn more about how we can help?  
-Click below to schedule a meeting at your convenience:  
-**[📅 Schedule a Meeting](https://consult.ecomindustries.io)**
-
----
-
-### **📄 Create a Proposal**
-
-Use our **intuitive estimating software** to create a custom proposal tailored to your project’s needs:  
-**[🛠️ Create Your Proposal](https://ecomindustries.io/#app_development_cost_calculator)**
+```text
+Chief Complaint → "Start with CC: and quote the patient’s words."
+HPI → "Narrative paragraph covering onset, location, duration, severity, context, modifying factors, associated symptoms."
+Medications → "Bulleted list; include drug, dose, route, frequency; mark nonadherence if documented."
+ROS → "System-by-system bullets; use 'denies …' for pertinent negatives."
+Plan → "Numbered steps; include orders, counseling, follow-up interval."
+```
 
 ---
 
-### **💡 Let’s Build Together**
+### 2) Copy‑paste chaos 🔁
 
-At **ecom industries**, we combine **precision**, **innovation**, and **customer-centric solutions** to help businesses unlock the power of AI/ML. From **cutting-edge technologies** to **seamless integration**, we ensure your company stays ahead in the rapidly evolving digital landscape.
+**Problem:** External dictation tools create notes you still have to paste into the EHR.
+**Solution:** **Phase 2** integrates with leading **EHRs** (e.g., Athenahealth, Epic). Pull today’s schedule into the app → pick a patient → dictate → **note & codes post back automatically**.
 
-![ecom Icon](https://nativestack-assets.s3.us-east-1.amazonaws.com/ecom-industries/logos/eci-icon-blue.png)
+---
 
-**📞 Contact us today** to transform your vision into scalable, high-impact software solutions!
+### 3) Denials whack‑a‑mole 💸
+
+**Problem:** Denial trends are found **after** rejections — weeks later.
+**Solution:** **Phase 3** adds a policy-trained engine (CMS **NCD/LCD** + commercial payers) to check documentation and codes **as you chart**, suggesting what to add or adjust — so claims pass the first time.
+
+-   **Real‑time rule checks:** Frequency limits, required modifiers, prerequisite therapies, medical necessity language.
+-   **Continuously updated:** Our models ingest **new CMS and payer updates** regularly, so manual coders aren’t left chasing rule changes.
+-   **Outcome focus:** Target higher clean-claim rates and fewer resubmits.
+
+---
+
+### 4) Audit anxiety & compliance risk 🛡️
+
+**Problem:** Fraud/Waste/Abuse patterns are caught retroactively.
+**Solution:** **Phase 4** provides **real-time** compliance nudges for providers and a **dashboard** for compliance teams to spot outliers early — reducing clawbacks and protecting reputation.
+
+---
+
+## How it works (high level)
+
+1. **Record** in the iOS app (during or after the encounter).
+2. **Transcribe & structure** into SOAP; review/edit as needed.
+3. **Suggest codes** aligned with the documentation.
+4. _(Phase 2+)_ **Sync** to the EHR automatically.
+5. _(Phase 3+)_ **Policy check** claim logic in real time; add missing elements.
+6. _(Phase 4+)_ **Monitor** patterns for compliance and quality.
+
+---
+
+## Who it’s for
+
+-   **Clinicians** who want to finish notes during clinic hours, not after.
+-   **Billers/Coders** who prefer preventing denials to cleaning them up.
+-   **Practice leaders** who want fewer write‑offs, faster cash, and lower audit risk.
+
+---
+
+## What’s shipping now vs. next
+
+-   **Now (Phase 1)** ✅
+
+    -   Real‑time transcription → SOAP
+    -   ICD‑10 suggestions
+    -   **Transcription Preferences** and model tuning to customize note style
+
+-   **Next up** 🛣️
+
+    -   **Phase 2:** EHR schedule sync & automatic note posting
+    -   **Phase 3:** Real‑time claims optimization (CMS LCD/NCD + payer rules)
+    -   **Phase 4:** FWA analytics, compliance dashboard, and in‑workflow nudges
+
+See the full roadmap inside the **PRD** → [`docs/PRD.md`](docs/PRD.md)
+
+---
+
+## Security & compliance 🔒
+
+-   HIPAA‑ready design with encryption in transit & at rest.
+-   Business Associate Agreement (BAA) during onboarding.
+-   Minimal PHI on device; processing in secure cloud.
+-   Audit logs currently online in production.
+
+For details, see: [`docs/legal-compliance.md`](docs/legal-compliance.md)
+
+---
+
+## Get involved
+
+-   💬 **Questions / pilots:** [dev@medtranscribe.ai](mailto:dev@medtranscribe.ai)
+-   ⭐ **Star this repo** to follow progress
+-   🧩 **Contribute:** Open an issue with ideas, edge cases, or integration requests
+-   📄 **PRD & specs:** [`docs/PRD.md`](docs/PRD.md)
+
+---
+
+## Credits & status
+
+Built by a team obsessed with saving clinicians time and helping practices get paid for the care they deliver. If you’re a provider, biller, or compliance lead who wants to shape this, we’d love to hear from you. 🙌
+
+---
+
+### Appendix: Repo map (suggested)
+
+```
+.
+├─ README.md                      # ← You are here (org entry point)
+├─ docs/
+│  ├─ PRD.md
+│  ├─ phase-1-transcription.md
+│  ├─ phase-2-ehr-integration.md
+│  ├─ phase-3-claims-optimization.md
+│  ├─ phase-4-fraud-waste-abuse.md
+│  ├─ monetization.md
+│  ├─ legal-compliance.md
+│  ├─ comparative-analysis.md
+│  └─ assets/
+│     └─ iOSiconMedTranscribe.png
+└─ ...
+```
