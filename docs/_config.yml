@@ -12,6 +12,8 @@ plugins:
 # Just the Docs options (optional, but handy)
 logo: "/assets/iOSiconMedTranscribe.png"
 aux_links:
-  "MedTranscribeAi on GitHub":
-    - "https://github.com/MedTranscribeAi"
+  "Download MedTranscribeAi on iOS":
+    - "https://youtu.be/6MbdzgZT5O4"
+  "Home":
+    - "https://medtranscribe.ai"
 nav_external_links_new_tab: true
