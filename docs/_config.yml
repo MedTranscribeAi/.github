@@ -1,9 +1,8 @@
 title: "MedTranscribeAi Docs"
 description: "Transcribe care. Optimize billing. Get paid faster."
-# remote_theme: just-the-docs/just-the-docs
-theme: jekyll-theme-minimal # or: jekyll-theme-cayman, jekyll-theme-primer, etc.
+remote_theme: just-the-docs/just-the-docs
 plugins:
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
