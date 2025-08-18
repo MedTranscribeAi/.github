@@ -3,7 +3,7 @@ description: "Transcribe care. Optimize billing. Get paid faster."
 # remote_theme: just-the-docs/just-the-docs
 theme: jekyll-theme-cayman # or: jekyll-theme-primer, jekyll-theme-minimal, etc.
 plugins:
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
