@@ -1,3 +1,9 @@
+---
+layout: default
+title: Phase 2 — EHR Integration and Workflow Automation
+nav_order: 2
+---
+
 **phase-2-ehr-integration.md**
 
 # Phase 2: EHR Integration and Workflow Automation

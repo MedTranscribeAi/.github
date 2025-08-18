@@ -1,3 +1,9 @@
+---
+layout: default
+title: Phase 3 — Real-Time Claims Optimization (Policy-Trained Models)
+nav_order: 3
+---
+
 **phase-3-claims-optimization.md**
 
 # Phase 3: Real-Time Claims Optimization (Policy-Trained Models)

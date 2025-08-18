@@ -1,3 +1,9 @@
+---
+layout: default
+title: Legal and Regulatory Considerations (Pharmaceutical Ads & Compliance)
+nav_order: 7
+---
+
 **legal-compliance.md**
 
 # Legal and Regulatory Considerations (Pharmaceutical Ads & Compliance)

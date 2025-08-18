@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pricing & Monetization Strategy
+nav_order: 6
+---
+
 **monetization.md**
 
 # Monetization Strategy

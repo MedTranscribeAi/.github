@@ -1,3 +1,9 @@
+---
+layout: default
+title: Phase 1 — Real‑time Transcription & ICD‑10 Coding
+nav_order: 2
+---
+
 **phase-1-transcription.md**
 
 # Phase 1: Real-Time Transcription and ICD-10 Coding
