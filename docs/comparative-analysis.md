@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comparative Analysis of Existing Solutions (Current Manual Processes)
-nav_order: 5
+nav_order: 4
 ---
 
 **comparative-analysis.md**

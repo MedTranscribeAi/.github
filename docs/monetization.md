@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pricing & Monetization Strategy
-nav_order: 6
+nav_order: 5
 ---
 
 **monetization.md**
