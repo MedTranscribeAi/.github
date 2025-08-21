@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legal and Regulatory Considerations (Pharmaceutical Ads & Compliance)
-nav_order: 6
+nav_order: 10
 ---
 
 **legal-compliance.md**
