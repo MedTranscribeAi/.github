@@ -12,10 +12,10 @@ _Transcribe care. Optimize billing. Get paid faster._
 
 ## Quick links
 
-- Phase 1 – Real‑time Transcription & ICD‑10: [phases/phase-1-transcription.md](phase-1-transcription.md)
-- Phase 2 – EHR Integration & Scheduling: [phases/phase-2-ehr-integration.md](phase-2-ehr-integration.md)
-- Phase 3 – Real‑time Claims Optimization: [phases/phase-3-claims-optimization.md](phase-3-claims-optimization.md)
-- Phase 4 – FWA & Compliance: [phases/phase-4-fraud-waste-abuse.md](phase-4-fraud-waste-abuse.md)
+- Phase 1 – Real‑time Transcription & ICD‑10: [phase-1-transcription.md](phases/phase-1-transcription.md)
+- Phase 2 – EHR Integration & Scheduling: [phase-2-ehr-integration.md](phases/phase-2-ehr-integration.md)
+- Phase 3 – Real‑time Claims Optimization: [phase-3-claims-optimization.md](phases/phase-3-claims-optimization.md)
+- Phase 4 – FWA & Compliance: [phase-4-fraud-waste-abuse.md](phases/phase-4-fraud-waste-abuse.md)
 - PRD: [PRD.md](PRD.md)
 - Monetization: [monetization.md](monetization.md)
 - Legal & Regulatory: [legal-compliance.md](legal-compliance.md)
