@@ -1,4 +1,5 @@
 ---
+layout: default
 title: MedTranscribeAi – Product Requirements Document
 nav_order: 2
 ---
