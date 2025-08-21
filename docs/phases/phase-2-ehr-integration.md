@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 2 — EHR Integration and Workflow Automation
+parent: Product Phases
 nav_order: 2
 ---
 

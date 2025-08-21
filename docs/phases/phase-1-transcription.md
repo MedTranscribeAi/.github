@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 1 — Real‑time Transcription & ICD‑10 Coding
+parent: Product Phases
 nav_order: 1
 ---
 
