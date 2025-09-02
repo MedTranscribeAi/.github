@@ -8,18 +8,35 @@ nav_order: 1
 
 _Transcribe care. Optimize billing. Get paid faster._
 
+> **MedTranscribeAi** is an AI assistant for clinicians and providers that turns spoken encounters into structured **SOAP notes** with **ICD‑10** suggestions — and (as we roll out) checks payer rules in real time to **reduce denials**, prevent audits, and improve cash flow.
+
+## TL;DR — Why this matters
+
+Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasing audits. We’re building one flow from **note → code → claim** that’s:
+
+- **Fast**: Dictate once; get a ready-to-review SOAP note in 5 minutes. ⏱️
+- **Accurate**: ICD‑10 suggestions aligned with the note’s content. 🎯
+- **Up‑to‑date**: Models trained on updated **CMS NCD/LCD** + commercial payer rules to prevent denials **before** claims go out. ✅
+- **Future‑proof**: EHR integrations, claims optimization, and compliance insights — all in one place. 🔄
+
 ![App icon](assets/iOSiconMedTranscribe.png)
 
 ## Quick links
 
-- Phase 1 – Real‑time Transcription & ICD‑10: [phase-1-transcription.md](phases/phase-1-transcription.html)
-- Phase 2 – EHR Integration & Scheduling: [phase-2-ehr-integration.md](phases/phase-2-ehr-integration.html)
-- Phase 3 – Real‑time Claims Optimization: [phase-3-claims-optimization.md](phases/phase-3-claims-optimization.html)
-- Phase 4 – FWA & Compliance: [phase-4-fraud-waste-abuse.md](phases/phase-4-fraud-waste-abuse.html)
-- PRD: [PRD.md](PRD.md)
-- Monetization: [monetization.md](monetization.md)
-- Legal & Regulatory: [legal-compliance.md](legal-compliance.md)
-- Comparative Analysis: [comparative-analysis.md](comparative-analysis.md)
+- 📘 **User Documentation (start here)**
+
+  - Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phases/phase-1-transcription.md`](../docs/phases/phase-1-transcription.md)
+  - Phase 2 – EHR Integration & Scheduling: [`docs/phases/phase-2-ehr-integration.md`](../docs/phases/phase-2-ehr-integration.md)
+  - Phase 3 – Real‑time Claims Optimization: [`docs/phases/phase-3-claims-optimization.md`](../docs/phases/phase-3-claims-optimization.md)
+  - Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phases/phase-4-fraud-waste-abuse.md`](../docs/phases/phase-4-fraud-waste-abuse.md)
+
+- 🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](../docs/PRD.md)
+
+- 💼 **Monetization**: [`docs/monetization.md`](../docs/monetization.md)
+
+- ⚖️ **Legal & Regulatory**: [`docs/legal-compliance.md`](../docs/legal-compliance.md)
+
+- 🆚 **Comparative Analysis**: [`docs/comparative-analysis.md`](../docs/comparative-analysis.md)
 
 ## Table of Contents
 
@@ -61,44 +78,6 @@ _Transcribe care. Optimize billing. Get paid faster._
   - [Phase 4 (Alternate): Pharmacy & Device Monetization](monetization.html#phase-4-alternate-pharmacy-device-monetization)
   - [Value-Added Services](monetization.html#value-added-services)
 - [Legal and Regulatory Considerations (Pharmaceutical Ads & Compliance)](legal-compliance.html#legal-and-regulatory-considerations-pharmaceutical-ads-compliance)
-
-# MedTranscribeAi
-
-_Transcribe care. Optimize billing. Get paid faster._ 🩺✨
-
-![MedTranscribeAi icon](../docs/assets/iOSiconMedTranscribe.png)
-
-> **MedTranscribeAi** is an AI assistant for clinicians and providers that turns spoken encounters into structured **SOAP notes** with **ICD‑10** suggestions — and (as we roll out) checks payer rules in real time to **reduce denials**, prevent audits, and improve cash flow.
-
----
-
-## TL;DR — Why this matters
-
-Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasing audits. We’re building one flow from **note → code → claim** that’s:
-
-- **Fast**: Dictate once; get a ready-to-review SOAP note in 5 minutes. ⏱️
-- **Accurate**: ICD‑10 suggestions aligned with the note’s content. 🎯
-- **Up‑to‑date**: Models trained on updated **CMS NCD/LCD** + commercial payer rules to prevent denials **before** claims go out. ✅
-- **Future‑proof**: EHR integrations, claims optimization, and compliance insights — all in one place. 🔄
-
----
-
-## Quick links
-
-- 📘 **User Documentation (start here)**
-
-  - Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phases/phase-1-transcription.md`](../docs/phases/phase-1-transcription.md)
-  - Phase 2 – EHR Integration & Scheduling: [`docs/phases/phase-2-ehr-integration.md`](../docs/phases/phase-2-ehr-integration.md)
-  - Phase 3 – Real‑time Claims Optimization: [`docs/phases/phase-3-claims-optimization.md`](../docs/phases/phase-3-claims-optimization.md)
-  - Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phases/phase-4-fraud-waste-abuse.md`](../docs/phases/phase-4-fraud-waste-abuse.md)
-
-- 🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](../docs/PRD.md)
-
-- 💼 **Monetization**: [`docs/monetization.md`](../docs/monetization.md)
-
-- ⚖️ **Legal & Regulatory**: [`docs/legal-compliance.md`](../docs/legal-compliance.md)
-
-- 🆚 **Comparative Analysis**: [`docs/comparative-analysis.md`](../docs/comparative-analysis.md)
 
 ---
 
