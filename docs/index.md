@@ -14,10 +14,13 @@ _Transcribe care. Optimize billing. Get paid faster._
 
 Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasing audits. We’re building one flow from **note → code → claim** that’s:
 
-- **Fast**: Dictate once; get a ready-to-review SOAP note in 5 minutes. ⏱️
-- **Accurate**: ICD‑10 suggestions aligned with the note’s content. 🎯
-- **Up‑to‑date**: Models trained on updated **CMS NCD/LCD** + commercial payer rules to prevent denials **before** claims go out. ✅
-- **Future‑proof**: EHR integrations, claims optimization, and compliance insights — all in one place. 🔄
+⏱️ **Fast**: Dictate once; get a ready-to-review SOAP note in 5 minutes.
+
+🎯 **Accurate**: ICD‑10 suggestions aligned with the note’s content.
+
+✅ **Up‑to‑date**: Models trained on updated **CMS NCD/LCD** + commercial payer rules to prevent denials **before** claims go out.
+
+🔄 **Future‑proof**: EHR integrations, claims optimization, and compliance insights — all in one place.
 
 ![App icon](assets/iOSiconMedTranscribe.png)
 
