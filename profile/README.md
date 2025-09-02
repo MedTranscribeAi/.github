@@ -23,10 +23,10 @@ Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasin
 
 -   📘 **User Documentation (start here)**
 
-    -   Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phase-1-transcription.md`](../docs/phase-1-transcription.md)
-    -   Phase 2 – EHR Integration & Scheduling: [`docs/phase-2-ehr-integration.md`](../docs/phase-2-ehr-integration.md)
-    -   Phase 3 – Real‑time Claims Optimization: [`docs/phase-3-claims-optimization.md`](../docs/phase-3-claims-optimization.md)
-    -   Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phase-4-fraud-waste-abuse.md`](../docs/phase-4-fraud-waste-abuse.md)
+    -   Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phases/phase-1-transcription.md`](../docs/phases/phase-1-transcription.md)
+    -   Phase 2 – EHR Integration & Scheduling: [`docs/phases/phase-2-ehr-integration.md`](../docs/phases/phase-2-ehr-integration.md)
+    -   Phase 3 – Real‑time Claims Optimization: [`docs/phases/phase-3-claims-optimization.md`](../docs/phases/phase-3-claims-optimization.md)
+    -   Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phases/phase-4-fraud-waste-abuse.md`](../docs/phases/phase-4-fraud-waste-abuse.md)
 
 -   🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](../docs/PRD.md)
 
@@ -159,13 +159,16 @@ Built by a team obsessed with saving clinicians time and helping practices get p
 ├─ README.md                      # ← You are here (org entry point)
 ├─ docs/
 │  ├─ PRD.md
-│  ├─ phase-1-transcription.md
-│  ├─ phase-2-ehr-integration.md
-│  ├─ phase-3-claims-optimization.md
-│  ├─ phase-4-fraud-waste-abuse.md
+│  └─ phases/
+│     └─ phase-1-transcription.md
+│     └─ phase-2-ehr-integration.md
+│     └─ phase-3-claims-optimization.md
+│     └─ phase-4-fraud-waste-abuse.md
+│  ├─ comparative-analysis.md
 │  ├─ monetization.md
 │  ├─ legal-compliance.md
-│  ├─ comparative-analysis.md
+│  ├─ bug-bounty.md
+│  ├─ release-notes.md
 │  └─ assets/
 │     └─ iOSiconMedTranscribe.png
 └─ ...
