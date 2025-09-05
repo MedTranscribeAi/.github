@@ -23,18 +23,18 @@ Healthcare teams lose hours to typing, hunting codes, fixing denials, and chasin
 
 -   📘 **User Documentation (start here)**
 
-    -   Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phases/phase-1-transcription.md`](https://docs.medtranscribe.ai/phases/phase-1-transcription.html)
-    -   Phase 2 – EHR Integration & Scheduling: [`docs/phases/phase-2-ehr-integration.md`](https://docs.medtranscribe.ai/phases/phase-2-ehr-integration.html)
-    -   Phase 3 – Real‑time Claims Optimization: [`docs/phases/phase-3-claims-optimization.md`](https://docs.medtranscribe.ai/phases/phase-3-claims-optimization.html)
-    -   Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phases/phase-4-fraud-waste-abuse.md`](https://docs.medtranscribe.ai/phases/phase-4-fraud-waste-abuse.html)
+    -   Phase 1 – Real‑time Transcription & ICD‑10: [`docs/phases/phase-1-transcription.md`](../docs/phases/phase-1-transcription.md)
+    -   Phase 2 – EHR Integration & Scheduling: [`docs/phases/phase-2-ehr-integration.md`](../docs/phases/phase-2-ehr-integration.md)
+    -   Phase 3 – Real‑time Claims Optimization: [`docs/phases/phase-3-claims-optimization.md`](../docs/phases/phase-3-claims-optimization.md)
+    -   Phase 4 – Fraud/Waste/Abuse & Compliance: [`docs/phases/phase-4-fraud-waste-abuse.md`](../docs/phases/phase-4-fraud-waste-abuse.md)
 
--   🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](https://docs.medtranscribe.ai/PRD.html)
+-   🧭 **Product Requirements Document (PRD)**: [`docs/PRD.md`](../docs/PRD.md)
 
--   💼 **Monetization**: [`docs/monetization.md`](https://docs.medtranscribe.ai/monetization.html)
+-   💼 **Monetization**: [`docs/monetization.md`](../docs/monetization.md)
 
--   ⚖️ **Legal & Regulatory**: [`docs/legal-compliance.md`](https://docs.medtranscribe.ai/legal-compliance.html)
+-   ⚖️ **Legal & Regulatory**: [`docs/legal-compliance.md`](../docs/legal-compliance.md)
 
--   🆚 **Comparative Analysis**: [`docs/comparative-analysis.md`](https://docs.medtranscribe.ai/comparative-analysis.html)
+-   🆚 **Comparative Analysis**: [`docs/comparative-analysis.md`](../docs/comparative-analysis.md)
 
 ---
 
@@ -122,7 +122,7 @@ Plan → "Numbered steps; include orders, counseling, follow-up interval."
     -   **Phase 3:** Real‑time claims optimization (CMS LCD/NCD + payer rules)
     -   **Phase 4:** FWA analytics, compliance dashboard, and in‑workflow nudges
 
-See the full roadmap inside the **PRD** → [`docs/PRD.md`](https://docs.medtranscribe.ai/PRD.html)
+See the full roadmap inside the **PRD** → [`docs/PRD.md`](../docs/PRD.md)
 
 ---
 
@@ -133,7 +133,7 @@ See the full roadmap inside the **PRD** → [`docs/PRD.md`](https://docs.medtran
 -   Minimal PHI on device; processing in secure cloud.
 -   Audit logs currently online in production.
 
-For details, see: [`docs/legal-compliance.md`](https://docs.medtranscribe.ai/legal-compliance.html)
+For details, see: [`docs/legal-compliance.md`](../docs/legal-compliance.md)
 
 ---
 
@@ -142,7 +142,7 @@ For details, see: [`docs/legal-compliance.md`](https://docs.medtranscribe.ai/leg
 -   💬 **Questions / pilots:** [dev@medtranscribe.ai](mailto:dev@medtranscribe.ai)
 -   ⭐ **Star this repo** to follow progress
 -   🧩 **Contribute:** Open an issue with ideas, edge cases, or integration requests
--   📄 **PRD & specs:** [`docs/PRD.md`](docs/PRD.md)
+-   📄 **PRD & specs:** [`docs/PRD.md`](../docs/PRD.md)
 
 ---
 
