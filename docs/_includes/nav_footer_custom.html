@@ -1,1 +1,9 @@
-<div class="text-small text-grey-dk-000">© 2025 MedTranscribeAi</div>
+<div class="text-small text-grey-dk-000" style="margin-left: auto">
+  © <span id="mt-year">{{ site.time | date: "%Y" }}</span> MedTranscribeAi
+</div>
+<script>
+  (function () {
+    var el = document.getElementById("mt-year");
+    if (el) el.textContent = new Date().getFullYear();
+  })();
+</script>
