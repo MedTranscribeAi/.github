@@ -3,7 +3,6 @@ layout: default
 title: Delete your account
 nav_order: 13
 parent: Account & Privacy
-# grand_parent:
 ---
 
 # Delete your account
