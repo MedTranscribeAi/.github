@@ -57,12 +57,14 @@ We offer monetary rewards (bug bounties) for **valid, unique security vulnerabil
 
 | Severity (CVSS v3)      | **Typical Bounty** |
 | ----------------------- | ------------------ |
-| **Critical** (9.0 – 10) | up to $1,000       |
-| **High** (7.0 – 8.9)    | up to $500         |
-| **Medium** (4.0 – 6.9)  | up to $200         |
-| **Low** (0 – 3.9)       | up to $50          |
+| **Critical** (9.0 – 10) | up to $0           |
+| **High** (7.0 – 8.9)    | up to $0           |
+| **Medium** (4.0 – 6.9)  | up to $0           |
+| **Low** (0 – 3.9)       | up to $0           |
 
 > **Note:** These ranges serve as guidelines. The exact reward for a specific report will be at our discretion and may vary based on the specific impact and creativity of the vulnerability. Exceptional reports (especially for novel or severe issues) may receive higher payouts. Conversely, low-quality reports or issues with minimal security impact may receive lower rewards or possibly no reward if deemed not significant enough. We will notify you of the bounty amount upon resolution of the issue.
+
+> **Disclaimer:** Project in DEVELOPMENT - As of 5 DECEMBER 2025 there is no BUG BOUNTY to be paid. Any reports made will be ignored throughout project development.
 
 Only reports that meet the criteria and follow this policy will be eligible for rewards. In particular, vulnerabilities must be previously unknown to us and not publicly disclosed. We do not reward reports for out-of-scope issues or those that we determine to be false positives. **If two researchers report the same issue, only the first report (based on submission time) is eligible for a bounty.**
 
