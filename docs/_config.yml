@@ -14,6 +14,8 @@ logo: "/assets/iOSiconMedTranscribe.png"
 aux_links:
   "Download MedTranscribeAi on iOS":
     - "https://apps.apple.com/us/app/medtranscribeai/id6747984524"
+  "Download MedTranscribeAi on Android":
+    - "https://play.google.com/store/apps/details?id=com.medtranscribe.app"
   "Home":
     - "https://medtranscribe.ai"
 nav_external_links_new_tab: true
